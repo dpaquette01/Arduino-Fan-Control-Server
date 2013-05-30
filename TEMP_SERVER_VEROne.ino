@@ -12,8 +12,8 @@ DallasTemperature sensors(&oneWire);
 
 byte mac[] = { 
   0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
-IPAddress ip(10,0,1,7); // The IP address will be dependent on your local network:
-String userIP = "http://96.32.56.233/"; //ip address in string format, can be a global IP or local(same as other ip most of the time)
+IPAddress ip(192,168,1,3); // The IP address will be dependent on your local network:
+String userIP = "http://192.168.1.3/"; //ip address in string format, can be a global IP or local(same as other ip most of the time)
 // Initialize the Ethernet server library
 // with the IP address and port you want to use 
 // (port 80 is default for HTTP):
