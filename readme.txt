@@ -40,6 +40,6 @@ You can find the spec sheet and how to implement it on this site as well.
 The fan control uses a digital pin to with on or off a connected relay. ( I am not responsible for how you decide to implement the hardware, including how the relay gets its main power source, this can be dangerous if electrical safety standards are not followed)
 
 ------------------------------------------
-You can contact the developer, David Paquette, which any questions or suggestions
+You can contact the developer, David Paquette, with any questions or suggestions
 at dpaquette01@aol.com
 
