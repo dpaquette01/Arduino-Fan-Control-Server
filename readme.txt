@@ -1,4 +1,7 @@
-Fan Control with Arduino Web Server:(iPhone app coming soon to Apple's App store)
+Fan Control with Arduino Web Server
+
+iPhone and iPad app available here:
+http://itunes.apple.com/us/app/arduino-fan-control/id656513614?mt=8
 
 This sketch allows the user to view:
 
@@ -38,6 +41,8 @@ My build uses the one wire digital temperature sensor which can be found here ht
 You can find the spec sheet and how to implement it on this site as well.
 
 The fan control uses a digital pin to with on or off a connected relay. ( I am not responsible for how you decide to implement the hardware, including how the relay gets its main power source, this can be dangerous if electrical safety standards are not followed)
+Do not attempt this if you do not have experience with electrical safety. 
+By using the source code, and my instructions, you are agreeing that I am not liable for any damages, or injuries, that this project may cause to you, others or your equipment.
 
 ------------------------------------------
 You can contact the developer, David Paquette, with any questions or suggestions
