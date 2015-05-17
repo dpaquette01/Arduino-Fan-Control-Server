@@ -1,7 +1,11 @@
 Fan Control with Arduino Web Server
 
-iPhone and iPad app available here:
-http://itunes.apple.com/us/app/arduino-fan-control/id656513614?mt=8
+Update May 17, 2015 (about 3 years after last commit):
+After having this on Apple’s App store for the past couple years I decided to stop paying the developer fee.
+Also, just a heads up/warning to anyone who wants to use this: this was one of my first projects out of high school, so the quality is very poor.
+
+If anyone is still interested, the Arduino code is still avialable here.
+I have removed the iOS application from the app store, you can view the project in its entirety here: https://github.com/paquettedavid/ArduinoFanControl
 
 This sketch allows the user to view:
 
